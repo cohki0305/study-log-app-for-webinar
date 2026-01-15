@@ -205,3 +205,10 @@ See `.specify/memory/constitution.md` for full coding standards:
 - Zod validation in Server Actions (not in services)
 - Design system (4px grid, Major Third scale typography)
 - Post-implementation review with pr-review-toolkit agents
+
+## Active Technologies
+- TypeScript 5.x, Node.js 20+ + Tailwind CSS, shadcn/ui, Zod, Prisma, Better Auth, SWR (001-study-log-app)
+- PostgreSQL (via Prisma ORM) (001-study-log-app)
+
+## Recent Changes
+- 001-study-log-app: Added TypeScript 5.x, Node.js 20+ + Tailwind CSS, shadcn/ui, Zod, Prisma, Better Auth, SWR
